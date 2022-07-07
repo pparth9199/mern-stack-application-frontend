@@ -18,7 +18,9 @@ Run the server present in this [ repo ](https://github.com/pparth9199/mern-stack
 npm install
 npm start
 ```
-
+## Dployement
+- The deployement of the app is carried out to AWS EC2 instances 
+- The github actions was used to create a CI/CD pipeline for deployement to AWS
 
 ## Tech
 
